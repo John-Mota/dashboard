@@ -13,12 +13,7 @@ export class DadosService {
     ['abril', 15],
     ['maio', 80],
     ['junho', 27],
-    ['julho', 22],
-    ['agosto', 96],
-    ['setembro', 39],
-    ['outubro', 77],
-    ['novembro', 34],
-    ['dezembro', 59],
+    
 
   ]
 
